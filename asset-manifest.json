@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/itea-react-course/static/css/main.a210b290.css",
+    "main.js": "/itea-react-course/static/js/main.af4d24ec.js",
+    "static/js/787.248d19ad.chunk.js": "/itea-react-course/static/js/787.248d19ad.chunk.js",
+    "index.html": "/itea-react-course/index.html",
+    "main.a210b290.css.map": "/itea-react-course/static/css/main.a210b290.css.map",
+    "main.af4d24ec.js.map": "/itea-react-course/static/js/main.af4d24ec.js.map",
+    "787.248d19ad.chunk.js.map": "/itea-react-course/static/js/787.248d19ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a210b290.css",
+    "static/js/main.af4d24ec.js"
+  ]
+}

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/itea-react-course/static/css/main.a210b290.css",
-    "main.js": "/itea-react-course/static/js/main.946c0187.js",
-    "static/js/787.248d19ad.chunk.js": "/itea-react-course/static/js/787.248d19ad.chunk.js",
-    "index.html": "/itea-react-course/index.html",
-    "main.a210b290.css.map": "/itea-react-course/static/css/main.a210b290.css.map",
-    "main.946c0187.js.map": "/itea-react-course/static/js/main.946c0187.js.map",
-    "787.248d19ad.chunk.js.map": "/itea-react-course/static/js/787.248d19ad.chunk.js.map"
+    "main.css": "./static/css/main.a210b290.css",
+    "main.js": "./static/js/main.45f13723.js",
+    "static/js/787.248d19ad.chunk.js": "./static/js/787.248d19ad.chunk.js",
+    "index.html": "./index.html",
+    "main.a210b290.css.map": "./static/css/main.a210b290.css.map",
+    "main.45f13723.js.map": "./static/js/main.45f13723.js.map",
+    "787.248d19ad.chunk.js.map": "./static/js/787.248d19ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a210b290.css",
-    "static/js/main.946c0187.js"
+    "static/js/main.45f13723.js"
   ]
 }

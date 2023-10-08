@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter,
+  HashRouter,
   Routes,
   Route
 } from 'react-router-dom';
@@ -13,7 +13,7 @@ import Results from './components/Battle/Results';
 export default class App extends React.Component {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <Nav />
         <Routes>
           <Route path='/' element={<Home />} />
@@ -22,7 +22,7 @@ export default class App extends React.Component {
           <Route path='battle/results' element={<Results />} />
           <Route path='*' element={<main style={{ padding: "1rem" }}><p>There's nothing here!</p></main>} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
